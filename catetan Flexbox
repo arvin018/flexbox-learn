@@ -1,0 +1,47 @@
+Flex box => model layout 1 dimensi yang dapat
+            mengatur jarak dan penjaaran antar item dalam sebuat container
+ 1 dimensi? => maskudnya  kita hanya dapat mengatur 1 dimesi pada saat tertentu
+ 	       antara bari atau kolom, tidak bisa keduannya sekaligus
+ 	       
+ 2 dimensi ?  => 2 dimensi diatur sekaligus disebut dengan CSS-Grid
+ 
+ Flexbox layout module 
+ 	=> sebuah modul yang menawarkan cara yang efektif untuk menyusun, mensejajarkan dan 
+ 	mendistrubusikan jarka antar item di dalam sebuah container , meskipun ukurannya dinamis 
+ 	atau bahkan kita tidak tau ( maksudnya data diambil dari API atau database).
+ 	
+ flexbox hanya bisa 1 colum /kolom atau 1  rows /baris 
+ 
+ container => pengmbukus bar kolom dan baris (container)
+ 
+ item  =>  isi dari kolom dan baris disebut item  (item bisa disebut sebagai child)
+ 
+ main axis => ketika set element -element secara horizontal
+ 
+ cross axis => kalau kita ubah horizontal diubah jadi vertikal
+ 
+ main size  => ukuran container
+  cross size     => ukuran kolom
+  
+  main start => menentukan awal dari element horizontal
+  
+  main  end  => menetukan akhir dari element  horizontal
+   
+  
+  cross start = >menentukan awal dari element vertikal
+  
+  cross end =>  menetukan akhir dari element  vertikal
+  
+ Istilah flex box
+ max axis  =>adalah sumbu utama dari sebuah container yang menentuakn urutan d
+ 	     dari penempatan items secara horizontal
+ 	     
+  main-start |  main-end => mulai dan berakhirnya items yang disimpan di dalam container
+  
+  main size - Ukuran(width/height) dari container yang akan membuat dimensi dari
+  	      container yang akan membuat dimensi dari items nya relatif terhadpa main size
+ 	     
+   
+  
+  
+   
